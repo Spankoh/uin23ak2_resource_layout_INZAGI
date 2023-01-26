@@ -31,6 +31,7 @@ h1  {
 
   .active {
     border-style: dashed;
+    color: white;
     background-color: #34e1eb;
     border-color: #34e1eb;
   }
